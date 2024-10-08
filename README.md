@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eyannbrandon
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Cognitive Science
-- 💞️ I’m looking to collaborate on Python code.
+- 👀 I’m interested in Web Development, Games Programmer, AI, Data Science & Software Engineer.
+- 🌱 I’m currently learning Cognitive Science.
+- 💞️ I’m looking to collaborate on Python, C++, Java/JS, & CSS 
 - 📫 How to reach me, just email me.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like about AI.
